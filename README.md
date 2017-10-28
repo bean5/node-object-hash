@@ -5,7 +5,8 @@ A node server to wrap and expose object-hash. This includes a docker-compose.yml
 If you do have npm installed: `npm install`.
 If you don't have npm installed: `docker-compose run npm_install`
 
-# Standing up:
+# Standing up
 `docker-compose up node_object_hash`
 
+# Testing
 You can verify that it is running by curling against it: `curl 127.0.0.1/?obj_to_hash=test`
