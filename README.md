@@ -6,7 +6,7 @@ If you do have npm installed: `npm install`.
 If you don't have npm installed: `docker-compose run npm_install`
 
 # Standing up
-`docker-compose up node_object_hash`
+`docker-compose up -d node_object_hash`
 
 # Testing
 You can verify that it is running by curling against it: `curl 127.0.0.1/?obj_to_hash=test`
