@@ -1,5 +1,5 @@
 # node-object-hash
-A node server to wrap and expose object-hash. This includes a docker-compose.yml file for easy stand-up.
+A node server to wrap and expose [object-hash](https://github.com/puleos/object-hash). This includes a docker-compose.yml file for easy stand-up.
 
 # Set up: Gather depencencies
 If you do have npm installed: `npm install`.
