@@ -1,6 +1,6 @@
 version: "3"
 services:
-  node:
+  node_object_hash:
     image: "node:8.6-alpine"
     user: "node"
     working_dir: /home/node/app
