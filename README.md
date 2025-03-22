@@ -1,7 +1,7 @@
 # node-object-hash
 A node server to wrap and expose [object-hash](https://github.com/puleos/object-hash). This includes a docker-compose.yml file for easy stand-up.
 
-# Set up: Gather depencencies
+# Set up: Gather dependencies
 If you do have npm installed: `npm install`.
 If you don't have npm installed: `docker-compose run npm_install`
 
